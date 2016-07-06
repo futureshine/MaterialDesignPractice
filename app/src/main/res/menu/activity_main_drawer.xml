@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+        <item android:id="@+id/nav_main"
+        android:icon="@drawable/ic_main"
+        android:title="@string/nav_main"/>
+        <item android:id="@+id/nav_search"
+            android:icon="@drawable/ic_drawer_search"
+            android:title="@string/nav_search"/>
+        <item android:id="@+id/nav_user"
+            android:icon="@drawable/ic_user"
+            android:title="@string/nav_user"/>
+    </group>
+
+    <item android:title="@string/more_items">
+        <menu>
+            <item android:id="@+id/nav_setting"
+                android:icon="@drawable/ic_drawer_setting"
+                android:title="@string/nav_settings"/>
+            <item android:id="@+id/nav_share"
+                android:icon="@drawable/ic_drawer_share"
+                android:title="@string/nav_share"/>
+            <item android:id="@+id/nav_send"
+                android:icon="@drawable/ic_message"
+                android:title="@string/nav_send"/>
+        </menu>
+    </item>
+
+</menu>

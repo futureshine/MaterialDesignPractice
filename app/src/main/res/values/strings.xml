@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">我的练习</string>
+    <string name="nav_main">首页</string>
+    <string name="nav_search">搜索图片</string>
+    <string name="nav_user">我的图片</string>
+    <string name="more_items">more items</string>
+    <string name="nav_settings">设置</string>
+    <string name="nav_share">分享</string>
+    <string name="nav_send">意见反馈</string>
+    <string name="meituxiu">美图秀</string>
+    <string name="tupiansousuo">你的图片搜索神器</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
